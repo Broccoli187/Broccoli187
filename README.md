@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/basel-abbasi-1bb9901a2/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622328885~hmac=92d148b9f7f67fdd7000fc9d44e8b603" alt="https://www.linkedin.com/in/basel-abbasi-1bb9901a2/" height="30" width="40" />Linkedin</a>
-  
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" height="30" width="40" />187erBroccoli#4822</a>
+
+<a href="https://www.linkedin.com/in/basel-abbasi-1bb9901a2/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622328885~hmac=92d148b9f7f67fdd7000fc9d44e8b603" alt="https://www.linkedin.com/in/basel-abbasi-1bb9901a2/" height="30" width="40" />Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
