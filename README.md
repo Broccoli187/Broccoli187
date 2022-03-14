@@ -7,7 +7,7 @@
 
 - 👯 i am looking for team members for [Austria Cyber Security Challange 2021](https://verbotengut.at/)
 
-- ⚡ Fun fact **187**
+- ⚡ Fun fact **passionate chess player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
