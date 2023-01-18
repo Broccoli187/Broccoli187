@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Basel</h1>
-<h3 align="center">19yo skiddie who just discovered github.</h3>
+<h3 align="center">19yo Student who just discovered github.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=broccoli187" alt="broccoli187" /></a> </p>
 
-- 🔭 I’m currently working on [A GUI for the reverse-search tool EagleEye](https://github.com/ThoughtfulDev/EagleEye)
+- 🔭 I’m currently working on [A plagiarism checker for GPT-3](https://github.com/openai/gpt-3)
 
-- 👯 i am looking for team members for [Austria Cyber Security Challange 2021](https://verbotengut.at/)
+- 👯 i am looking for team members for [Austria Cyber Security Challange 2023](https://verbotengut.at/)
 
 - ⚡ Fun fact **passionate chess player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" height="30" width="40" />187erBroccoli#4822</a>
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" height="30" width="40" />Name via pm :)</a>
 
-<a href="https://www.linkedin.com/in/basel-abbasi-1bb9901a2/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/basel-abbasi-1bb9901a2/" height="30" width="40" /> Linkedin</a>
+<a href="https://at.linkedin.com/in/basel-abbasi-1bb9901a2/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/basel-abbasi-1bb9901a2/" height="30" width="40" /> Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
